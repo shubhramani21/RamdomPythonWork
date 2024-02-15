@@ -6,6 +6,7 @@ root=tkinter.Tk()
 root.geometry('400x400')
 root.title('Dice Roll')
 
+
 BlackLine=tkinter.Label(root,text='')
 BlackLine.pack()
 
